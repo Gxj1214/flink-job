@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello World dev dev2!" );
         System.out.println( "Hello World dev master fetch!" );
         int b;
+        int c;
     }
 }
