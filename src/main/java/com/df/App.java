@@ -15,5 +15,6 @@ public class App
         int d;
         int e;
         int f;
+        String master1;
     }
 }
