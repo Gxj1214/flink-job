@@ -13,5 +13,7 @@ public class App
         System.out.println( "Hello World dev master fetch!" );
         int b;
         int d;
+        int e;
+        int f;
     }
 }
