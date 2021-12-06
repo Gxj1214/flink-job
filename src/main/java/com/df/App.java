@@ -17,5 +17,6 @@ public class App
         int f;
         String master1;
         String dev1;
+        String dev2;
     }
 }
